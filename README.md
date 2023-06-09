@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Flexbox NFT Preview Card](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Flexbox NFT Preview Card](https://www.frontendmentor.io/solutions/flexbox-nft-preview-card-jWqkttif4A)
+- Live Site URL: [Live site](https://flexbox-nft-card.netlify.app/)
 
 ## My process
 
