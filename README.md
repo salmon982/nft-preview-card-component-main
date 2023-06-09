@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [Flexbox NFT Preview Card](https://your-solution-url.com)
 - Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
